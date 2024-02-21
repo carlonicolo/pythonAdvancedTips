@@ -7,3 +7,5 @@ In this repository there are examples of some useful tools and tricks that we co
 How to apply and use map function in real life with some simple examples.
 
 ## [FastAPI](FastAPI/README.md)
+
+## [Threads](Threads/main.py)
